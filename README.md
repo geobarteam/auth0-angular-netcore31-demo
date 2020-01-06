@@ -20,4 +20,4 @@
   dotnet run
  7) Open your browser and navigate to http://http://localhost:3000/
 
-To better understand how to configure your app it's recomended to first complete the auth0 [angular2](https://auth0.com/docs/quickstart/spa/angular2) quickstart. 
+To better understand how to configure your app it's recommended to first complete the auth0 [angular2](https://auth0.com/docs/quickstart/spa/angular2) quickstart. 
