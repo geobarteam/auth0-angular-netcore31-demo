@@ -4,8 +4,8 @@
  The purpose is to demonstrate how to use auth0 to secure Api calls to a NetCore31 app from an Angular 8+ SPA.
  
  To make it work you need to:
- 1) Have a auth0 subscription.
- 2) Create an Application and a API.
+ 1) Have an auth0 subscription.
+ 2) Create an Application and an API.
  3) Edit following files with your auth0 configuration info:
   - \auth0-backend-demo\appsettings.config
   - \auth0-angular-demo\src\app\auth.service.ts
